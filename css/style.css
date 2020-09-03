@@ -490,6 +490,9 @@ cursor:pointer;
 	.middle-content{
 		padding:55px 0 0 0;
 	}
+	.header h1{
+		font-size:18px;
+	}
 	.box{
 		min-height:80px;
 		margin-bottom:15px;
